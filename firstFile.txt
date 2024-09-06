@@ -12,3 +12,5 @@ Added firstFile.txt to git_1
 Added firstFile.txt to git_1
 step 7
 step 7
+step 8
+step 8
